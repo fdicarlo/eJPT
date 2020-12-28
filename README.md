@@ -1,5 +1,5 @@
 # eJPT
-![eJPT Logo](/images/ejpt_logo.jpg)
+![eJPT Logo](/ejpt_logo.jpg)
 
 ## Notes
 
